@@ -1,0 +1,8 @@
+database_username = ""
+database_password = ""
+database_hostname = ""
+database_port = ""
+database_name = ""
+secret_key = ""
+algorithm = ""
+access_token_expire_minutes = "access token expiration in mins"
